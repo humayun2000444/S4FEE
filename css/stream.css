@@ -1,0 +1,204 @@
+.bg {
+  background-image: url("../img/bg.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px; }
+
+.navbar {
+  background: #8f4f03;
+  box-shadow: 0px 0px 25px 0px; }
+
+.navbar-brand img {
+  margin-right: 150px;
+  height: 70px; }
+
+.nav-item {
+  padding-right: 10px; }
+  .bg2 {
+    background-image: url("../img/bg2.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto; }
+    .fill {
+      height: 80px; }
+
+.img1{
+ background-color: #ff8901;
+ width: 100%;
+ border-radius: 4pt;
+ }
+.img1 img{
+width: 100%;
+}
+.img1 strong{
+  color: #ffff;
+  font-size: 35px;
+}
+.img1 span{
+  color: #ffff;
+}
+.img1 p span{
+  font-size: 25px;
+}
+.img2{
+  background-color: #000000;
+  border-radius: 5pt;
+  width: 100%;
+}
+.img2 img{
+  width: 100%;
+}
+.img2 p{
+  color:#ffff;
+  font-size: 24px;
+  font-weight: 500;
+  padding-left: 20px;
+  padding-bottom: 15px;
+}
+.img3{
+  background-color: #000000;
+  border-radius: 5pt;
+  width: 100%;
+}
+.img3 img{
+  width: 100%;
+}
+.img3 p{
+  color:#ffff;
+  font-size: 24px;
+  font-weight: 500;
+  padding-left: 20px;
+  padding-bottom: 15px;
+
+}
+.even{
+  background-color: #ff8901;
+  border-radius: 5pt;
+}
+.even h3{
+  text-align: center;
+  padding: 12px;
+}
+.even1{
+  background-color: #ffff;
+  border-radius: 0px 0px 5px 5px;
+}
+.even1 p{
+  font-size: 20px;
+  font-weight: 500;
+  color: #515151;
+}
+.evend{
+  background-color: #ff8901;
+  color: #ffff;
+  border-radius: 5pt;
+}
+.evend img{
+  width: 100%;
+}
+.evend div h1{
+  color: #ffff;
+}
+.evend div p{
+  color: #ffff;
+  font-size: 19px;
+  padding-bottom: 13px;
+}
+.evenl{
+  background-color: #ef3f2f;
+  color: #ffff;
+  border-radius: 5pt;
+}
+.evenl div p{
+  color: #ffff;
+  font-size: 19px;
+  padding-bottom: 13px;
+}
+.evenll{
+  background-color: #FA3A94;
+  color: #ffff;
+  border-radius: 5pt;
+}
+.evenll div p{
+  color: #ffff;
+  font-size: 19px;
+  padding-bottom: 13px;
+}
+#footer {
+  background-image: url("../img/footer bg.png"); }
+
+.footerlg {
+color: #ffff;
+font-size: 18px; }
+
+.recent-game {
+color: #FE8801;
+font-weight: bold;
+display: inline-block;
+padding-left: 10px;
+padding-top: 5px;
+font-size: 15px; }
+
+.pad {
+padding: 10px; }
+
+.tourna {
+color: #ffff;
+padding-left: 30px; }
+.tourna p {
+font-weight: bold; }
+.tourna p span {
+font-weight: normal;
+background-color: red; }
+
+      .starts {
+        color: #ffff; }
+        .starts span {
+          font-weight: bold;
+          color: #a7a7a7; }
+
+      .OTHERMATCHES {
+        color: #ffff; }
+        .OTHERMATCHES tr td {
+          background-color: black;
+          padding: 5px; }
+
+      .lastsec {
+        background-color: #242831; }
+        .lastsec img {
+          padding: 10px 0px; }
+        .lastsec table tr th {
+          color: #ffff;
+          padding-right: 15px; }
+        .lastsec td {
+          color: #ffff;
+          font-size: 12px; }
+
+      .playing p {
+        color: #ffff;
+        background-color: #35D655;
+        text-align: center; }
+
+      .ft {
+        color: #FE8801;
+        font-size: 20px;
+        font-weight: bold; }
+
+      .ft1 {
+        color: #ffff; }
+
+      .tournament {
+        height: 200px;
+        background-color: #1F232C; }
+
+      #Copyright {
+        background-color: black;
+        height: 50px;
+        color: #FE8801;
+        text-align: center; }
+        #Copyright h6 {
+          padding-top: 18px; }

@@ -1,0 +1,328 @@
+$primary-overlay: rgba(46, 49, 146, 0.52);
+// HOME css
+.bg {
+  background-image: url("../img/bg.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+}
+.navbar{
+  background: #8f4f03;
+  box-shadow: 0px 0px 25px 0px;
+}
+.navbar-brand img{
+  margin-right: 150px;
+  height: 70px;
+}
+.nav-item{
+padding-right: 10px;
+}
+.down h2
+{
+  margin-top: 80px;
+  color: #000000;
+  font-size: 50px;
+  font-weight: bold;
+  a img{
+    width: 300px;
+  }
+}
+.bg2 {
+  background-image: url("../img/bg2.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+.s4fee-heading{
+  color: #ff8901;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.nft-videos{
+  width: 200px;
+}
+.ourcart-heading{
+  color: #ff8901;
+  text-align: center;
+  padding-top: 50px;
+}
+.cart-item1{
+  margin-top: 50px;
+}
+.cart-item{
+  height: 350px;
+  width: 350px;
+  background-color: #1f232c;
+  box-shadow: 3px 3px 15px 0px #000000;
+
+}
+.cart-item a img{
+  height: 350px;
+  width: 350px
+}
+.fill{
+  height: 100px;
+}
+#slider1{
+
+}
+.carousel-img-1{
+  background: url('../img/dragonbg2.png');
+  background-size: cover;
+}
+.carousel-img-2{
+  background: url('../img/dragonbg1.png');
+  background-size: cover;
+}
+.carousel-img-3{
+  background: url('../img/dragonbg.png');
+  background-size: cover;
+}
+.carousel-item{
+  height: 450px;
+}
+.btn{
+  color: #ffff;
+  font-size: 18pt;
+  background-color: #262a35;
+}
+.carousel-caption h1{
+  font-weight: bold;
+}
+.bar{
+  height: 10px;
+  width: 400px;
+  background-color: #ffff;
+}
+.latest{
+  color: #ff8701;
+}
+.latest-ul{
+  padding-left: none;
+}
+.latesttr{
+  color: #ffff;
+  background-color: #0A0B0F;
+  tr td{
+    padding: 5px 10px;
+  }
+}
+.latest-sec1{
+  background-color: #252C36;
+  opacity: .8;
+}
+.latest-sec1 h4{
+  text-align: center;
+  color: #FF8702;
+  font-size: 20px;
+  padding-top: 15px;
+  font-weight: bold;
+}
+.col-lg-2.5 img{
+    height: 40px;
+    width: 40px;
+}
+.align{
+  display:  flex;
+}
+.latest-p{
+  padding-top:20px;
+  color: #ffff;
+}
+.latest-up{
+  color: #ffff;
+  background-color: #FF8601;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.latest-p0{
+  color: #ffff;
+  font-weight: bold;
+  font-size: 40px;
+}
+.display-s{
+  font-size: 8px;
+  color: #ffff;
+}
+.latest-up1{
+  color: #ffff;
+  background-color: #6EBA00;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.topteam{
+  width: 450px;
+  background-color: #87510f;
+}
+.topteam1{
+  width: 450px;
+  background-color: #652D14;
+}
+.topteam2{
+  width: 450px;
+  background-color: #4B1219;
+}
+.lp{
+  color: #ffff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.imglp img{
+  padding: 10px 15px;
+  width: 80px;
+  height: 75px;
+}
+.lp1{
+  color: #ffff;
+}
+.topteam00{
+  color: #ff8701;
+  padding: 12px 0px;
+}
+.carousel-img-11{
+  background: url('../img/slider2.png');
+  background-size: cover;
+}
+.carousel-img-22{
+  background: url('../img/slider2.png');
+  background-size: cover;
+}
+.carousel-img-33{
+  background: url('../img/slider2.png');
+  background-size: cover;
+}
+.lorem-div1{
+  width: 450px;
+  height: 220px;
+  background-image: url("../img/lorempic1.png");
+  h1{
+    padding-top: 10px;
+    text-align: center;
+    color: #ffff;
+  }
+  p{
+    padding: 0px 35px;
+    color: #ffff;
+    text-align: center;
+  }
+}
+.lorem-div2{
+  width: 450px;
+  height: 220px;
+  background-image: url("../img/lorempic2.png");
+  h1{
+    text-align: left;
+    color: #ffff;
+    padding: 10px 35px;
+  }
+  p{
+    padding: 0px 35px;
+    color: #ffff;
+    text-align: left;
+  }
+}
+.last-psg{
+  padding-top: 20px;
+  color: #FE8801;
+  text-align: center;
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+#footer{
+  background-image: url("../img/footer bg.png");
+}
+.footerlg{
+  color: #ffff;
+  font-size: 18px;
+}
+.recent-game{
+  color: #FE8801;
+  font-weight: bold;
+  display: inline-block;
+  padding-left: 10px;
+  padding-top: 5px;
+  font-size: 15px
+}
+.pad{
+  padding: 10px;
+}
+.tourna{
+  color: #ffff;
+  padding-left: 30px;
+  p{
+    font-weight: bold;
+    span{
+      font-weight: normal;
+      background-color: red;
+    }
+  }
+}
+.starts{
+  color:#ffff;
+  span{
+    font-weight: bold;
+    color: #a7a7a7;
+  }
+}
+.OTHERMATCHES{
+  color: #ffff;
+  tr td{
+    background-color: black;
+    padding: 5px;
+  }
+}
+.lastsec{
+  background-color: #242831;
+  img{
+    padding: 10px 0px;
+  }
+  table tr th{
+    color: #ffff;
+    padding-right: 15px;
+  }
+  td{
+    color: #ffff;
+    font-size: 12px;
+  }
+}
+.playing {
+  p{
+  color: #ffff;
+  background-color: #35D655;
+  text-align: center;
+}
+}
+.ft{
+  color: #FE8801;
+  font-size: 20px;
+  font-weight: bold;
+}
+.ft1{
+  color: #ffff;
+}
+
+.tournament{
+  height: 200px;
+  background-color: #1F232C;
+}
+#Copyright{
+  background-color: black;
+  height: 50px;
+  color: #FE8801;
+  text-align: center;
+  h6{
+    padding-top: 18px;
+  }
+}
+
+// sign up class
+.card-body{
+  background-color: red;
+}

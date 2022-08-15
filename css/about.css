@@ -1,0 +1,145 @@
+.bg {
+  background-image: url("../img/bg.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px; }
+
+.navbar {
+  background: #8f4f03;
+  box-shadow: 0px 0px 25px 0px; }
+
+.navbar-brand img {
+  margin-right: 150px;
+  height: 70px; }
+
+.nav-item {
+  padding-right: 10px; }
+  .bg2 {
+    background-image: url("../img/bg2.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto; }
+
+    .fill {
+      height: 100px; }
+
+    .carousel-img-1 {
+      background: url("../img/about 11.jpg");
+      background-size: cover; }
+
+    .carousel-img-2 {
+      background: url("../img/eKo3fR.jpg");
+      background-size: cover; }
+
+    .carousel-img-3 {
+      background: url("../img/about slider.png");
+      background-size: cover; }
+
+    .carousel-item {
+      height: 450px; }
+
+    .btn {
+      color: #ffff;
+      font-size: 18pt;
+      background-color: #262a35; }
+
+    .carousel-caption h1 {
+      font-weight: bold; }
+
+    .bar {
+      height: 10px;
+      width: 400px;
+      background-color: #ffff; }
+
+.about h1{
+  color: #ffff;
+  text-align: center;
+}
+.about h5{
+  color: #ffff;
+  text-align: center;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+    #footer {
+      background-image: url("../img/footer bg.png"); }
+
+    .footerlg {
+      color: #ffff;
+      font-size: 18px; }
+
+    .recent-game {
+      color: #FE8801;
+      font-weight: bold;
+      display: inline-block;
+      padding-left: 10px;
+      padding-top: 5px;
+      font-size: 15px; }
+
+    .pad {
+      padding: 10px; }
+
+    .tourna {
+      color: #ffff;
+      padding-left: 30px; }
+      .tourna p {
+        font-weight: bold; }
+        .tourna p span {
+          font-weight: normal;
+          background-color: red; }
+
+    .starts {
+      color: #ffff; }
+      .starts span {
+        font-weight: bold;
+        color: #a7a7a7; }
+
+    .OTHERMATCHES {
+      color: #ffff; }
+      .OTHERMATCHES tr td {
+        background-color: black;
+        padding: 5px; }
+
+    .lastsec {
+      background-color: #242831; }
+      .lastsec img {
+        padding: 10px 0px; }
+      .lastsec table tr th {
+        color: #ffff;
+        padding-right: 15px; }
+      .lastsec td {
+        color: #ffff;
+        font-size: 12px; }
+
+    .playing p {
+      color: #ffff;
+      background-color: #35D655;
+      text-align: center; }
+
+    .ft {
+      color: #FE8801;
+      font-size: 20px;
+      font-weight: bold; }
+
+    .ft1 {
+      color: #ffff; }
+
+    .tournament {
+      height: 200px;
+      background-color: #1F232C; }
+
+    #Copyright {
+      background-color: black;
+      height: 50px;
+      color: #FE8801;
+      text-align: center; }
+      #Copyright h6 {
+        padding-top: 18px; }
